@@ -4,7 +4,8 @@ This Python package contains 4 different classes to work with files, folder, ima
 for more information about how to develop your RPA projects with python check https://ibott.io/academy
 
 ### [1. files.py](files_and_folders/files.py) 
-Class to handle files.
+
+Class File() to handle files.
 Arguments:
 1. file_path (str): path to the file
 
